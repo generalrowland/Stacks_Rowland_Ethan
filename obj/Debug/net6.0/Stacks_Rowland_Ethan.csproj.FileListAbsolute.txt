@@ -1,0 +1,14 @@
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\bin\Debug\net6.0\Stacks_Rowland_Ethan.exe
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\bin\Debug\net6.0\Stacks_Rowland_Ethan.deps.json
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\bin\Debug\net6.0\Stacks_Rowland_Ethan.runtimeconfig.json
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\bin\Debug\net6.0\Stacks_Rowland_Ethan.dll
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\bin\Debug\net6.0\Stacks_Rowland_Ethan.pdb
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\Stacks_Rowland_Ethan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\Stacks_Rowland_Ethan.AssemblyInfoInputs.cache
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\Stacks_Rowland_Ethan.AssemblyInfo.cs
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\Stacks_Rowland_Ethan.csproj.CoreCompileInputs.cache
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\Stacks_Rowland_Ethan.dll
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\refint\Stacks_Rowland_Ethan.dll
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\Stacks_Rowland_Ethan.pdb
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\Stacks_Rowland_Ethan.genruntimeconfig.cache
+C:\Users\EthanRowland\source\repos\Stacks_Rowland_Ethan\obj\Debug\net6.0\ref\Stacks_Rowland_Ethan.dll
